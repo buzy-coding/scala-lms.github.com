@@ -96,7 +96,7 @@ can be further transformed and optimized.
 [Read more...](tutorials/index.html)
 
 
-## Run Scala Anywhere
+## Run Scale Anywhere
 
 Generate code for heterogenenous targets. Compile Scala to JavaScript, SQL, CUDA, C...
 
